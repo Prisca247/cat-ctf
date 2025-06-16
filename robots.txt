@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /do-not-enter/
+
+# 🤫 Psst... If you're reading this, you're already ahead.
+# Go to /do-not-enter-secret_flag.txt/ for your prize.
